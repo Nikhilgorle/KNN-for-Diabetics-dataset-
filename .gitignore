@@ -5,7 +5,6 @@
 # Ignore temporary files
 *.tmp
 *.temp
-*.csv
 
 # Ignore log files
 *.log
@@ -22,3 +21,4 @@ node_modules/
 
 # Ignore files with sensitive information
 secret.txt
+diabetes.csv
